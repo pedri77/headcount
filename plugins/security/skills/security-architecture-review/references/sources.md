@@ -58,6 +58,14 @@ OWASP Foundation · global · CC BY-SA — quote with attribution; share-alike, 
 
 **Authoritative for:** The application-security risk categories a customer questionnaire or a pen-test report will be organized around.
 
+## Royal Decree 311/2022 — Esquema Nacional de Seguridad (ENS, Spain's National Security Framework)
+
+Boletín Oficial del Estado (BOE) · ES · public domain — quote freely
+
+<https://www.boe.es/eli/es/rd/2022/05/03/311>
+
+**Authoritative for:** The security measures Spain requires by system category (basic, medium, high) for the public sector and for private providers serving it. It settles whether a control is mandatory for a supplier selling to a Spanish public body. Statutory text is excluded from copyright under Article 13 of the Spanish Intellectual Property Law.
+
 ---
 
 Sources are maintained in `sources/` upstream, not here. If one is wrong, out of date, or missing, fix it there — this file is regenerated and an edit to it is lost.

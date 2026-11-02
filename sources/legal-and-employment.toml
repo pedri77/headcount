@@ -172,3 +172,27 @@ authoritative_for = "The canonical identifier and full text of every common open
 data = "https://github.com/spdx/license-list-data"
 skills = ["legal-risk:intellectual-property", "technology:release-and-deployment"]
 checked = "2026-09-16"
+
+# ── Spain: data protection ──────────────────────────────────────────────────
+
+[[source]]
+id = "es-lopdgdd"
+title = "Organic Law 3/2018 — Spanish Data Protection and Digital Rights Act (LOPDGDD)"
+publisher = "Boletín Oficial del Estado (BOE)"
+url = "https://www.boe.es/eli/es/lo/2018/12/05/3"
+license = "public-domain"
+jurisdiction = "ES"
+authoritative_for = "What Spain adds to the GDPR: a digital consent age of 14, the sanctioning regime and limitation periods, sectors that must appoint a DPO, and employee digital rights such as the right to disconnect and workplace video surveillance."
+skills = ["legal-risk:privacy-and-data-protection"]
+checked = "2026-11-02"
+
+[[source]]
+id = "es-aepd-guides"
+title = "AEPD — Guides and tools"
+publisher = "Agencia Española de Protección de Datos (AEPD)"
+url = "https://www.aepd.es/guias-y-herramientas/guias"
+license = "free-to-read"
+jurisdiction = "ES"
+authoritative_for = "How the Spanish supervisory authority reads the GDPR on cookies, breach notification, DPIAs, AI and anonymization. Where the regulation's text runs out, the reading of the authority that fines is what decides."
+skills = ["legal-risk:privacy-and-data-protection"]
+checked = "2026-11-02"

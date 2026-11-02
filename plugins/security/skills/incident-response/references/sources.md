@@ -14,6 +14,14 @@ Machine-readable: <https://www.cisa.gov/sites/default/files/feeds/known_exploite
 
 **Authoritative for:** Which vulnerabilities are being exploited in the wild right now — the only list that reliably separates patch-this-week from patch-this-quarter.
 
+## Directive (EU) 2022/2555 — NIS2
+
+Publications Office of the European Union · EU · free to use with attribution — credit the publisher
+
+<https://eur-lex.europa.eu/eli/dir/2022/2555/oj>
+
+**Authoritative for:** Which sectors and entities are essential or important, the risk-management measures of Article 21, and the 24-hour, 72-hour and one-month reporting stages of Article 23. A directive binds member states: an entity is bound by its national transposition, not by this text directly.
+
 ## MITRE ATT&CK
 
 The MITRE Corporation · global · free to use with attribution — credit the publisher
@@ -31,6 +39,30 @@ NIST · US · public domain (US government) — quote freely
 <https://csrc.nist.gov/pubs/sp/800/61/r3/final>
 
 **Authoritative for:** What an incident response capability must contain and what evidence must be captured at each stage. The current revision is a substantial rewrite that drops the older four-phase framing, so do not mix guidance across revisions.
+
+## Regulation (EU) 2022/2554 — Digital Operational Resilience Act (DORA)
+
+Publications Office of the European Union · EU · free to use with attribution — credit the publisher
+
+<https://eur-lex.europa.eu/eli/reg/2022/2554/oj>
+
+**Authoritative for:** ICT risk management, major-incident reporting, resilience testing and ICT third-party risk for financial entities, applicable since 17 January 2025 without transposition. It settles which clauses a contract with an ICT provider to a bank must contain.
+
+## Royal Decree 43/2021 — implementing Royal Decree-law 12/2018
+
+Boletín Oficial del Estado (BOE) · ES · public domain — quote freely
+
+<https://www.boe.es/eli/es/rd/2021/01/26/43>
+
+**Authoritative for:** Deadlines and content of incident notifications, the security officer role and operator measures under the Spanish NIS regime. It settles to whom and when an incident is reported in Spain today.
+
+## Royal Decree-law 12/2018 — security of network and information systems (Spain's NIS1 transposition)
+
+Boletín Oficial del Estado (BOE) · ES · public domain — quote freely
+
+<https://www.boe.es/eli/es/rdl/2018/09/07/12>
+
+**Authoritative for:** The cybersecurity law that binds operators of essential services and digital service providers in Spain today. Until NIS2 is transposed, this is the Spanish rule on obligations and incident reporting.
 
 ---
 

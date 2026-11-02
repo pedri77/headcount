@@ -4,6 +4,14 @@
 
 Check these before answering on anything they cover, and cite what you used. The use note on each one is binding: most of what a professional cites is free to read and not free to reproduce.
 
+## AEPD — Guides and tools
+
+Agencia Española de Protección de Datos (AEPD) · ES · **read and cite only — copyrighted, do not reproduce**
+
+<https://www.aepd.es/guias-y-herramientas/guias>
+
+**Authoritative for:** How the Spanish supervisory authority reads the GDPR on cookies, breach notification, DPIAs, AI and anonymization. Where the regulation's text runs out, the reading of the authority that fines is what decides.
+
 ## California Consumer Privacy Act — Attorney General
 
 California Office of the Attorney General · US-CA · public domain — quote freely
@@ -19,6 +27,14 @@ EDPB · EU · free to use with attribution — credit the publisher
 <https://www.edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en>
 
 **Authoritative for:** How supervisory authorities actually read the GDPR — lawful basis, transfers, legitimate interest balancing — which is where a plain reading of the regulation stops being enough.
+
+## Organic Law 3/2018 — Spanish Data Protection and Digital Rights Act (LOPDGDD)
+
+Boletín Oficial del Estado (BOE) · ES · public domain — quote freely
+
+<https://www.boe.es/eli/es/lo/2018/12/05/3>
+
+**Authoritative for:** What Spain adds to the GDPR: a digital consent age of 14, the sanctioning regime and limitation periods, sectors that must appoint a DPO, and employee digital rights such as the right to disconnect and workplace video surveillance.
 
 ## Regulation (EU) 2016/679 — GDPR
 

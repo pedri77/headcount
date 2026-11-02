@@ -4,6 +4,14 @@
 
 Check these before answering on anything they cover, and cite what you used. The use note on each one is binding: most of what a professional cites is free to read and not free to reproduce.
 
+## CCN — Esquema Nacional de Seguridad portal
+
+Centro Criptológico Nacional (CCN) · ES · **read and cite only — copyrighted, do not reproduce**
+
+<https://ens.ccn.cni.es/es/>
+
+**Authoritative for:** How the national authority reads the ENS in practice: the CCN-STIC 800 series guides, sector-specific compliance profiles and certification. Where the decree says what is required, this says what evidence satisfies it.
+
 ## CIS Critical Security Controls
 
 Center for Internet Security · global · **account required — cite it; the user fetches it**
@@ -11,6 +19,30 @@ Center for Internet Security · global · **account required — cite it; the us
 <https://www.cisecurity.org/controls>
 
 **Authoritative for:** A prioritized implementation order for a security program that has to start somewhere, with implementation groups sized to organizational maturity.
+
+## Commission Implementing Regulation (EU) 2024/2690 — NIS2 technical requirements for digital providers
+
+Publications Office of the European Union · EU · free to use with attribution — credit the publisher
+
+<https://eur-lex.europa.eu/eli/reg_impl/2024/2690/oj>
+
+**Authoritative for:** The concrete technical and methodological requirements for cloud, data center, managed service and managed security service providers under NIS2, and when their incidents count as significant. A regulation needs no transposition, but it reaches only entities inside NIS2's scope, and for cloud providers that turns on size: medium-sized providers are in, small and micro ones generally are not.
+
+## Directive (EU) 2022/2555 — NIS2
+
+Publications Office of the European Union · EU · free to use with attribution — credit the publisher
+
+<https://eur-lex.europa.eu/eli/dir/2022/2555/oj>
+
+**Authoritative for:** Which sectors and entities are essential or important, the risk-management measures of Article 21, and the 24-hour, 72-hour and one-month reporting stages of Article 23. A directive binds member states: an entity is bound by its national transposition, not by this text directly.
+
+## ENISA — NIS2 Technical Implementation Guidance
+
+ENISA · EU · **read and cite only — copyrighted, do not reproduce**
+
+<https://www.enisa.europa.eu/publications/nis2-technical-implementation-guidance>
+
+**Authoritative for:** How to evidence each requirement of Implementing Regulation 2024/2690, with example evidence and mappings to common standards. Guidance, not law: it settles how to show compliance, not whether a requirement applies.
 
 ## FedRAMP baselines and automation content
 
@@ -47,6 +79,14 @@ NIST · US · public domain (US government) — quote freely
 Machine-readable: <https://github.com/usnistgov/oscal-content>
 
 **Authoritative for:** The control catalog US federal systems are assessed against, and the control vocabulary FedRAMP and many private frameworks inherit.
+
+## Royal Decree 311/2022 — Esquema Nacional de Seguridad (ENS, Spain's National Security Framework)
+
+Boletín Oficial del Estado (BOE) · ES · public domain — quote freely
+
+<https://www.boe.es/eli/es/rd/2022/05/03/311>
+
+**Authoritative for:** The security measures Spain requires by system category (basic, medium, high) for the public sector and for private providers serving it. It settles whether a control is mandatory for a supplier selling to a Spanish public body. Statutory text is excluded from copyright under Article 13 of the Spanish Intellectual Property Law.
 
 ## SANS Information Security Policy Templates
 

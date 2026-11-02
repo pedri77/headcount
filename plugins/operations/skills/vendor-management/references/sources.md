@@ -30,6 +30,14 @@ Federal Reserve, FDIC and OCC · US · public domain (US government) — quote f
 
 **Authoritative for:** What due diligence, contract terms, monitoring and termination planning a vendor relationship requires, scaled to how critical it is. The clearest published statement of the lifecycle, and the one regulated buyers will hold you to.
 
+## Regulation (EU) 2022/2554 — Digital Operational Resilience Act (DORA)
+
+Publications Office of the European Union · EU · free to use with attribution — credit the publisher
+
+<https://eur-lex.europa.eu/eli/reg/2022/2554/oj>
+
+**Authoritative for:** ICT risk management, major-incident reporting, resilience testing and ICT third-party risk for financial entities, applicable since 17 January 2025 without transposition. It settles which clauses a contract with an ICT provider to a bank must contain.
+
 ---
 
 Sources are maintained in `sources/` upstream, not here. If one is wrong, out of date, or missing, fix it there — this file is regenerated and an edit to it is lost.

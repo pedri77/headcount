@@ -4,6 +4,22 @@
 
 Check these before answering on anything they cover, and cite what you used. The use note on each one is binding: most of what a professional cites is free to read and not free to reproduce.
 
+## Commission Implementing Regulation (EU) 2024/2690 — NIS2 technical requirements for digital providers
+
+Publications Office of the European Union · EU · free to use with attribution — credit the publisher
+
+<https://eur-lex.europa.eu/eli/reg_impl/2024/2690/oj>
+
+**Authoritative for:** The concrete technical and methodological requirements for cloud, data center, managed service and managed security service providers under NIS2, and when their incidents count as significant. A regulation needs no transposition, but it reaches only entities inside NIS2's scope, and for cloud providers that turns on size: medium-sized providers are in, small and micro ones generally are not.
+
+## Directive (EU) 2022/2555 — NIS2
+
+Publications Office of the European Union · EU · free to use with attribution — credit the publisher
+
+<https://eur-lex.europa.eu/eli/dir/2022/2555/oj>
+
+**Authoritative for:** Which sectors and entities are essential or important, the risk-management measures of Article 21, and the 24-hour, 72-hour and one-month reporting stages of Article 23. A directive binds member states: an entity is bound by its national transposition, not by this text directly.
+
 ## Electronic Code of Federal Regulations
 
 US Government Publishing Office / NARA · US · public domain (US government) — quote freely
@@ -56,6 +72,14 @@ Publications Office of the European Union · EU · free to use with attribution 
 
 **Authoritative for:** The operative text of the GDPR. EU legal texts are reusable with attribution under the Commission's reuse decision, so this is quotable where a national summary is not.
 
+## Regulation (EU) 2022/2554 — Digital Operational Resilience Act (DORA)
+
+Publications Office of the European Union · EU · free to use with attribution — credit the publisher
+
+<https://eur-lex.europa.eu/eli/reg/2022/2554/oj>
+
+**Authoritative for:** ICT risk management, major-incident reporting, resilience testing and ICT third-party risk for financial entities, applicable since 17 January 2025 without transposition. It settles which clauses a contract with an ICT provider to a bank must contain.
+
 ## Regulation (EU) 2024/1689 — the AI Act
 
 Publications Office of the European Union · EU · free to use with attribution — credit the publisher
@@ -63,6 +87,22 @@ Publications Office of the European Union · EU · free to use with attribution 
 <https://eur-lex.europa.eu/eli/reg/2024/1689/oj>
 
 **Authoritative for:** Whether an AI system is prohibited, high-risk or limited-risk in the EU and what obligations attach. Binding law rather than guidance, and only the Official Journal version is authentic.
+
+## Royal Decree 311/2022 — Esquema Nacional de Seguridad (ENS, Spain's National Security Framework)
+
+Boletín Oficial del Estado (BOE) · ES · public domain — quote freely
+
+<https://www.boe.es/eli/es/rd/2022/05/03/311>
+
+**Authoritative for:** The security measures Spain requires by system category (basic, medium, high) for the public sector and for private providers serving it. It settles whether a control is mandatory for a supplier selling to a Spanish public body. Statutory text is excluded from copyright under Article 13 of the Spanish Intellectual Property Law.
+
+## Royal Decree-law 12/2018 — security of network and information systems (Spain's NIS1 transposition)
+
+Boletín Oficial del Estado (BOE) · ES · public domain — quote freely
+
+<https://www.boe.es/eli/es/rdl/2018/09/07/12>
+
+**Authoritative for:** The cybersecurity law that binds operators of essential services and digital service providers in Spain today. Until NIS2 is transposed, this is the Spanish rule on obligations and incident reporting.
 
 ## SANS Information Security Policy Templates
 

@@ -125,3 +125,98 @@ jurisdiction = "global"
 authoritative_for = "The certifiable ISMS standard enterprise buyers ask for by name. The text is sold, not published — cite the clause number, never the wording."
 skills = ["security:chief-information-security-officer", "legal-risk:regulatory-compliance"]
 checked = "2026-09-16"
+
+# ── EU and Spain: network security, operational resilience ──────────────────
+#
+# One finding worth carrying: as of November 2026 Spain has not transposed NIS2. The draft bill was
+# approved in January 2025 and lapsed when Parliament was dissolved in October 2026. What binds an
+# entity under Spanish law today is the NIS1 regime (Royal Decree-law 12/2018 and Royal Decree
+# 43/2021), plus the ENS for the public sector and its suppliers. Citing NIS2 as Spanish law is wrong.
+
+[[source]]
+id = "eu-nis2-directive"
+title = "Directive (EU) 2022/2555 — NIS2"
+publisher = "Publications Office of the European Union"
+url = "https://eur-lex.europa.eu/eli/dir/2022/2555/oj"
+license = "attribution-required"
+jurisdiction = "EU"
+authoritative_for = "Which sectors and entities are essential or important, the risk-management measures of Article 21, and the 24-hour, 72-hour and one-month reporting stages of Article 23. A directive binds member states: an entity is bound by its national transposition, not by this text directly."
+skills = ["security:chief-information-security-officer", "security:incident-response", "legal-risk:regulatory-compliance"]
+checked = "2026-11-02"
+
+[[source]]
+id = "eu-nis2-implementing-regulation-2024-2690"
+title = "Commission Implementing Regulation (EU) 2024/2690 — NIS2 technical requirements for digital providers"
+publisher = "Publications Office of the European Union"
+url = "https://eur-lex.europa.eu/eli/reg_impl/2024/2690/oj"
+license = "attribution-required"
+jurisdiction = "EU"
+authoritative_for = "The concrete technical and methodological requirements for cloud, data center, managed service and managed security service providers under NIS2, and when their incidents count as significant. A regulation needs no transposition, but it reaches only entities inside NIS2's scope, and for cloud providers that turns on size: medium-sized providers are in, small and micro ones generally are not."
+skills = ["security:chief-information-security-officer", "legal-risk:regulatory-compliance"]
+checked = "2026-11-02"
+
+[[source]]
+id = "enisa-nis2-technical-guidance"
+title = "ENISA — NIS2 Technical Implementation Guidance"
+publisher = "ENISA"
+url = "https://www.enisa.europa.eu/publications/nis2-technical-implementation-guidance"
+license = "free-to-read"
+jurisdiction = "EU"
+authoritative_for = "How to evidence each requirement of Implementing Regulation 2024/2690, with example evidence and mappings to common standards. Guidance, not law: it settles how to show compliance, not whether a requirement applies."
+skills = ["security:chief-information-security-officer"]
+checked = "2026-11-02"
+
+[[source]]
+id = "eu-dora"
+title = "Regulation (EU) 2022/2554 — Digital Operational Resilience Act (DORA)"
+publisher = "Publications Office of the European Union"
+url = "https://eur-lex.europa.eu/eli/reg/2022/2554/oj"
+license = "attribution-required"
+jurisdiction = "EU"
+authoritative_for = "ICT risk management, major-incident reporting, resilience testing and ICT third-party risk for financial entities, applicable since 17 January 2025 without transposition. It settles which clauses a contract with an ICT provider to a bank must contain."
+skills = ["legal-risk:regulatory-compliance", "security:incident-response", "operations:vendor-management"]
+checked = "2026-11-02"
+
+[[source]]
+id = "es-ens-royal-decree-311-2022"
+title = "Royal Decree 311/2022 — Esquema Nacional de Seguridad (ENS, Spain's National Security Framework)"
+publisher = "Boletín Oficial del Estado (BOE)"
+url = "https://www.boe.es/eli/es/rd/2022/05/03/311"
+license = "public-domain"
+jurisdiction = "ES"
+authoritative_for = "The security measures Spain requires by system category (basic, medium, high) for the public sector and for private providers serving it. It settles whether a control is mandatory for a supplier selling to a Spanish public body. Statutory text is excluded from copyright under Article 13 of the Spanish Intellectual Property Law."
+skills = ["security:chief-information-security-officer", "security:security-architecture-review", "legal-risk:regulatory-compliance"]
+checked = "2026-11-02"
+
+[[source]]
+id = "es-ccn-ens-portal"
+title = "CCN — Esquema Nacional de Seguridad portal"
+publisher = "Centro Criptológico Nacional (CCN)"
+url = "https://ens.ccn.cni.es/es/"
+license = "free-to-read"
+jurisdiction = "ES"
+authoritative_for = "How the national authority reads the ENS in practice: the CCN-STIC 800 series guides, sector-specific compliance profiles and certification. Where the decree says what is required, this says what evidence satisfies it."
+skills = ["security:chief-information-security-officer"]
+checked = "2026-11-02"
+
+[[source]]
+id = "es-nis-royal-decree-law-12-2018"
+title = "Royal Decree-law 12/2018 — security of network and information systems (Spain's NIS1 transposition)"
+publisher = "Boletín Oficial del Estado (BOE)"
+url = "https://www.boe.es/eli/es/rdl/2018/09/07/12"
+license = "public-domain"
+jurisdiction = "ES"
+authoritative_for = "The cybersecurity law that binds operators of essential services and digital service providers in Spain today. Until NIS2 is transposed, this is the Spanish rule on obligations and incident reporting."
+skills = ["security:incident-response", "legal-risk:regulatory-compliance"]
+checked = "2026-11-02"
+
+[[source]]
+id = "es-nis-royal-decree-43-2021"
+title = "Royal Decree 43/2021 — implementing Royal Decree-law 12/2018"
+publisher = "Boletín Oficial del Estado (BOE)"
+url = "https://www.boe.es/eli/es/rd/2021/01/26/43"
+license = "public-domain"
+jurisdiction = "ES"
+authoritative_for = "Deadlines and content of incident notifications, the security officer role and operator measures under the Spanish NIS regime. It settles to whom and when an incident is reported in Spain today."
+skills = ["security:incident-response"]
+checked = "2026-11-02"
